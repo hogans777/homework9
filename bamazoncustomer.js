@@ -96,5 +96,3 @@ function updateDb(id, requested, instock) {
 			console.log("Complete!");
 			connection.end();
 		})
-}
-
